@@ -1,4 +1,4 @@
-# Astrocytes integrate neuromodulators — Main panel code
+# Astrocytes integrate neuromodulators — Code and example data
 
 This repository contains the source code and example datasets used to reproduce the figures in the paper, “Astroglia integrate sequential norepinephrine–dopamine signals to drive behavioral state transitions.”
 
