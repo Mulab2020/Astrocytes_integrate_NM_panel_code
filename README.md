@@ -15,9 +15,10 @@ Each panel has its own subfolder under `code/`, `data/`, and `results/`.
 
 ## How to use
 
-1. Open MATLAB R2024 and navigate to the panel's `code/` directory, e.g. `code/Fig1/`.
-2. Run the corresponding `plot_*.m` script.
-3. Outputs are written to `../results/` relative to the script.
+1. All scripts were developed and tested on **Windows 11** (MATLAB R2024a).
+2. Open MATLAB R2024 and navigate to the panel's `code/` directory, e.g. `code/Fig1/`.
+3. Run the corresponding `plot_*.m` script.
+4. Outputs are written to `../results/` relative to the script.
 
 All scripts are **self-contained**: they read only the processed `.mat` files in `data/` and do not depend on raw data paths, interactive file selection, or absolute directory references.
 
