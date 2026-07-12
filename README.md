@@ -20,7 +20,7 @@ Each panel has its own subfolder under `code/`, `data/`, and `results/`.
 3. Run the corresponding `plot_*.m` script.
 4. Outputs are written to `../results/` relative to the script.
 
-All scripts are **self-contained**: they read only the processed `.mat` files in `data/` and do not depend on raw data paths, interactive file selection, or absolute directory references.
+All scripts are **self-contained**: they read only the processed `.mat` files in `data/` and do not depend on raw data paths, interactive file selection, or absolute directory references. Expected runtime for each panel is under 30 seconds on a standard desktop computer.
 
 ## Panel index
 
