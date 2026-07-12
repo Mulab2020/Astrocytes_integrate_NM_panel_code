@@ -15,7 +15,7 @@ Each panel has its own subfolder under `code/`, `data/`, and `results/`.
 
 ## How to use
 
-1. Open MATLAB and navigate to the panel's `code/` directory, e.g. `code/Fig1/`.
+1. Open MATLAB2024 and navigate to the panel's `code/` directory, e.g. `code/Fig1/`.
 2. Run the corresponding `plot_*.m` script.
 3. Outputs are written to `../results/` relative to the script.
 
